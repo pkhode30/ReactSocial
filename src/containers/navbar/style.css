@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.navbar__left{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 0px 10px;
+}
+
+.navbar__right{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.navbar__profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-weight: 600;
+}
