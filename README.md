@@ -7,7 +7,7 @@ Hosted on firebase https://socioprod-app.web.app/
 To download neseccary dependencies, in the project directory run:\
 `npm install`
 
-Then do one of the folowing: \ 
+Then do one of the folowing:\
 `yarn start` or\
 `npm start`\
 Runs the app in the development mode.\
