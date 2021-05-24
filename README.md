@@ -1,7 +1,7 @@
 # ReactSocial
 Instagram like interface built with React and hosted on Google's Firebase.
 
-Hosted on firebase https://socioprod-app.web.app/
+Hosted on firebase https://rsocial-firebase.web.app/
 
 # Run Scripts
 To download neseccary dependencies, in the project directory run:\
